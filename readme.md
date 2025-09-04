@@ -118,7 +118,7 @@ Monitor these response headers to verify caching:
 
 ## License
 
-MIT License - see LICENSE file for details.
+Apache-2.0 license - see LICENSE file for details.
 
 ## Support
 
