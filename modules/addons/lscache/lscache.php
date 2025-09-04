@@ -3,13 +3,13 @@
 /**
  * LSCache WHMCS Addon Module
  *
- * This module provides LiteSpeed LSCache integration for WHMCS,
+ * This module provides LiteSpeed LSCache integration for WHMCS made by LivingGOD,
  * enabling safe caching of public pages while excluding sensitive areas.
  *
  * @package WHMCS\Addon\LSCache
  * @version 1.0.0
- * @author Your Name
- * @license MIT
+ * @author LivingGOD
+ * @license Apache-2.0
  */
 
 if (!defined("WHMCS")) {
